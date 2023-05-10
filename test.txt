@@ -5,5 +5,7 @@ I am from bangladesh.
 and my name is Rayhan.
 git second commit test.
 
-I've done my BSc From IIUC
+I've done my BSc From IIUC.
+
+Even though I am CSE graduate but I dont have any skill.
 
